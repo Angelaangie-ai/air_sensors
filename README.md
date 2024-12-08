@@ -1,1 +1,3 @@
+The Air Quality Sensor System is a compact environmental monitoring device built on a 60x80mm PCB. It uses three main components to measure air quality: a PMS5003 particle sensor that detects airborne particles (PM1.0, PM2.5, and PM10) in concentrations from 0-500 μg/m³, a BME680 environmental sensor that measures temperature (-40°C to +85°C), humidity (0-100%), pressure, and volatile organic compounds (0-500 ppm), and an ESP32 microcontroller that processes and transmits the data via WiFi. The system is powered through USB-C and provides real-time monitoring for indoor air quality, smart homes, and industrial applications.
+
 ![Image 12-7-24 at 7 03 PM 2](https://github.com/user-attachments/assets/7a9ffa5e-3261-4ef4-9d39-77a4bcfc6a36)
